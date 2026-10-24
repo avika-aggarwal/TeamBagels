@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "wanderlust",
+      "runtimeExecutable": "C:\\Program Files\\nodejs\\npm.cmd",
+      "runtimeArgs": ["exec", "vite", "--", "--port", "5173", "--strictPort"],
+      "port": 5173
+    }
+  ]
+}
